@@ -3,15 +3,15 @@
   padding: 0;
   box-sizing: border-box;
 }
-.firstcss{
+.firstcss {
   text-align: center;
 }
 
 .boom {
   
-  color: rgb(22, 20, 20);
+  color: rgb(212, 33, 33);
   align-content: center;
 }
-p{color: rgb(22, 44, 44);
+p{color: rgb(7, 223, 223);
   text-align: end;
 }
