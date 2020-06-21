@@ -17,6 +17,8 @@ function MyProgress(props){
     <tr>Functions/Component</tr>
     <tr>ReactDOM/Render</tr>
     <tr>JSX /Properties</tr>
+    <tr>Hooks</tr>
+    <tr>useState/Context API/useReducer</tr>
 
   </ul> 
   </center>
@@ -25,7 +27,7 @@ function MyProgress(props){
 <br/>
 <h4> Our Goal is to become a fullstack Webdeveloper to provide end to end solutions. </h4>
 <h3>Clock is ticking! {2+1} {1+1} {1}!</h3>
-<p>UPDATE: 09-06-2020</p>
+<p>UPDATE: 20-06-2020</p>
   </div>;
 }
 export default MyProgress;
